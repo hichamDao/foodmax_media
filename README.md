@@ -18,3 +18,9 @@ www.foodmax-group.com
 - Note: built as cinematic motion graphics from ultra-realistic AI-generated stills with camera motion; no certifications or third-party logos appear.
 
 `scene*.jpg` are the source stills used per scene.
+
+### foodmax-5-steps-freshness.mp4 (educational infographic)
+- Format: vertical 9:16, 1080x1920, 30 fps, H.264/AAC, 30.0 s, ~13 MB, web-optimized
+- Topic: 5 Essential Steps to Keep Fresh Produce Fresh During Transportation
+- Hook (0-4s) -> Steps 1-5 (badge, progress bar 1/5-5/5, animated icons, temperature gauge on step 4) -> branding endcard
+- Music: original synthesized light corporate bed with UI pop sfx (royalty-free)
