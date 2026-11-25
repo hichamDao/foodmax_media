@@ -24,3 +24,8 @@ www.foodmax-group.com
 - Topic: 5 Essential Steps to Keep Fresh Produce Fresh During Transportation
 - Hook (0-4s) -> Steps 1-5 (badge, progress bar 1/5-5/5, animated icons, temperature gauge on step 4) -> branding endcard
 - Music: original synthesized light corporate bed with UI pop sfx (royalty-free)
+
+### foodmax-facebook-story.mp4 (Facebook Story / 15s)
+- Format: vertical 9:16, 1080x1920, 30 fps, H.264/AAC, 15.0 s, ~8 MB, web-optimized
+- Scenes: FRESHNESS STARTS IN MOROCCO -> FRESH FRUITS & VEGETABLES (subtitle: carefully selected for international markets) -> FROM FARM TO GLOBAL MARKETS (packing + refrigerated truck) -> endcard with brand wordmark, FROM MOROCCO TO THE WORLD, foodmax-group.com, CTA 'Discover Our Products'
+- Brand: typographic wordmark used (no official logo file provided; no invented logo)
